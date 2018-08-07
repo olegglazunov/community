@@ -1,0 +1,9 @@
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
