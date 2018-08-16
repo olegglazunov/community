@@ -1,11 +1,11 @@
 <p align="center">
-<img width="100%" src="https://github.com/olegglazunov/community/blob/master/sources/paper/v1/header2.png?raw=true" />
+<img width="600" src="https://github.com/olegglazunov/community/blob/master/sources/paper/v1/header3.png?raw=true" />
 <p>
 
 
 <p>&nbsp;</p>
 
-<h1 align="center">
+<h1 align="center" color="green">
 Paper Title
 </h1>
 <p  align="center">
