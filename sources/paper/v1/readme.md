@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" src="https://github.com/olegglazunov/community/blob/master/sources/paper/v1/header3.png?raw=true" />
+<img width="100%" src="https://github.com/olegglazunov/community/blob/master/sources/paper/v1/header3.png?raw=true" />
 <p>
 
 
