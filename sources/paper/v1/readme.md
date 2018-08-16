@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/headernarrow.png?raw=true" />
+<img width="300" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/headernarrow.png?" />
 <p>
   
 <p>&nbsp;</p>
